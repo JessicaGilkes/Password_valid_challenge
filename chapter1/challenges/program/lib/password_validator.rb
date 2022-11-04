@@ -9,3 +9,5 @@ def valid?(password)
         return false
     end
 end
+
+#:)
